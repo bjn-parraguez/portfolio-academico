@@ -31,7 +31,7 @@ Este notebook se enfoca en el análisis de transacciones mediante consultas que:
 - Identifican al cliente con el mayor gasto total
 - Analizan patrones de gasto y comportamiento transaccional
 
-#Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 - SQL para consultas y análisis de datos
 - Jupyter Notebook como entorno interactivo
