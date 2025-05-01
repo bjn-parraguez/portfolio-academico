@@ -5,7 +5,7 @@ Este repositorio contiene consultas SQL implementadas en notebooks Jupyter para 
 
 # Estructura 
 
-Análisis de ventas.ipynb
+Análisis_de_ventas.ipynb
 Este notebook contiene consultas SQL que:
 
 - Muestran todos los registros de las tablas relacionadas con ventas
@@ -14,7 +14,7 @@ Este notebook contiene consultas SQL que:
 - Determinan el total de productos comprados por cada cliente
 - Proporcionan una visión general del comportamiento de compra de los clientes
 
-Análisis de negocio.ipynb
+Análisis_de_negocio.ipynb
 Este notebook incluye consultas SQL enfocadas en:
 
 - Encontrar productos que no son suministrados por un proveedor específico
@@ -23,7 +23,7 @@ Este notebook incluye consultas SQL enfocadas en:
 - Obtener los meses con ventas por debajo del promedio
 - Analizar la relación entre proveedores, productos y rendimiento
 
-Análisis transaccional.ipynb
+Análisis_transaccional.ipynb
 Este notebook se enfoca en el análisis de transacciones mediante consultas que:
 
 - Calculan el total gastado por cada cliente en productos
