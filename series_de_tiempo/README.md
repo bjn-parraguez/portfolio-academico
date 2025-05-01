@@ -42,7 +42,3 @@ Este proyecto está completamente documentado en el archivo Excel. Para reproduc
 - **Microsoft Excel**: Para realizar los cálculos de series de tiempo, los pronósticos y el análisis de modelos.
 - **Modelos AR(2)**: Implementación de modelos autorregresivos para la proyección de inflación a corto y largo plazo dentro de Excel.
 
-## Licencia
-
-Este proyecto no tiene licencia definida aún. Si deseas utilizar el archivo para tus propios fines, por favor, contacta al autor para obtener detalles sobre su uso.
-
