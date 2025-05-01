@@ -2,9 +2,9 @@
 
 # Descripción
 Este proyecto implementa un modelo predictivo para determinar si un cliente permanecerá o abandonará los servicios bancarios utilizando técnicas de machine learning.
-Características
 
-# Análisis de datos de clientes bancarios
+# Características
+Análisis de datos de clientes bancarios
 Preprocesamiento y balanceo de datos con SMOTE
 Comparación de 4 modelos de clasificación (Regresión Logística, SVM, KNN y Árboles de Decisión)
 Validación cruzada para asegurar robustez del modelo
